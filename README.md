@@ -174,6 +174,16 @@ EV_Battery_App/
 
 ## 🧠 Model Details
 
+## 📦 Model Download
+
+Due to GitHub file size limits, the trained model is not included.
+
+👉 Download model here:
+https://drive.google.com/models
+
+After downloading, place it inside:
+models/
+
 ### LSTM SoH Predictor
 
 - **Input**: 20 timesteps × 6 features
